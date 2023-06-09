@@ -11,4 +11,22 @@
   background-color: white;
   padding: 20px; 
   border-radius: 25px;
+  display: flex;
+  align-items: center;
+}
+
+.image-container {
+  margin-left: -50px;
+  margin-right: 70px;
+}
+
+.woman-computer{
+  width: 400px;
+  height: auto;
+}
+
+.content-container {
+
+  display: flex;
+  flex-direction: column;
 }
