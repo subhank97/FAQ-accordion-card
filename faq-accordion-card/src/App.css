@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+}
+
+.card {
+  width: 850px;
+  background-color: white;
+  padding: 20px; 
+  border-radius: 25px;
+}
